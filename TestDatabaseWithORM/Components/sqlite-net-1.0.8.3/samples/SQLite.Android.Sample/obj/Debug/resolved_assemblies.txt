@@ -1,0 +1,2 @@
+C:\Users\ASuwwan\Documents\Projects\TestDatabaseWithORM\Components\sqlite-net-1.0.8.3\samples\SQLite.Android.Sample\bin\Debug\SQLite.Android.Sample.dll
+C:\Users\ASuwwan\Documents\Projects\TestDatabaseWithORM\Components\sqlite-net-1.0.8.3\lib\android\SQLite.dll
